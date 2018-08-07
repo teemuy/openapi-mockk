@@ -17,6 +17,8 @@
   "license": "Unlicense",
   "dependencies": {
     "call-me-maybe": "^1.0.1",
+    "faker": "*",
+    "json-schema-faker": "*",
     "openapi-parser": "^0.1.0"
   },
   "devDependencies": {
